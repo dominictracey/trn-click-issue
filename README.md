@@ -8,7 +8,7 @@ This issue actually happens within PhantomJS but is demonstrated here using node
 
 To install and run the demo of the problem clone this repo and:
 
-`npm install`
-`npm run demo`
+```npm install
+npm run demo```
 
 Note that the script times out waiting for the selector for the Metres Run column after clicking on the attacking tab.
